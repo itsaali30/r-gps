@@ -1,0 +1,6 @@
+{
+  "name": "Jaga Badlo - GPS Emulator",
+  "description": "Mock GPS location emulator clone with interactive maps, joystick controls, speed profiles, route simulation, and APK install support.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
